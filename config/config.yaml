@@ -1,0 +1,5 @@
+defaults:
+  - model: roberta
+  - train: default
+
+seed: 42

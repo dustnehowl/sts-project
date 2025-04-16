@@ -1,0 +1,5 @@
+torch
+transformers
+hydra-core
+omegaconf
+tqdm
