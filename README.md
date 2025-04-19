@@ -67,7 +67,7 @@ python train.py train.lr=1e-4 train.batch_size=16
 
 ## 👥 Authors
 
-🧑‍💼 NLP & Training: @SeungHo0422
+🧑‍💼 NLP & Training: @dustehowl, @SeungHo0422
 
 🧑‍🔧 API & Serving: @dustnehowl
 
