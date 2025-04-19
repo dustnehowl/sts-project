@@ -4,3 +4,7 @@ hydra-core
 omegaconf
 tqdm
 datasets
+onnxruntime
+onnx
+boto3
+dotenv
